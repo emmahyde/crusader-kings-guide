@@ -1,17 +1,18 @@
 ## Game Overview
 
-*"yo did u beat ck2 yet?*
-
-*like the ending was good* 
-
-*but it was basically all qucik time events"* 
+```ruby
+"yo did u beat ck2 yet?
+like the ending was good
+but it was basically all qucik time events"
 
 [ Derek Murphy, 2019 ]
+```
+
 
 
 The primary goal of  is to survive your dynasty. The game begins by selecting a character to play sometime between the start dates of 769-1337 AD.. The game always ends in 1453.
 
-You'll die many times, but as long as you still have an heir within your dynasty to succeed you, you'll continue to play. 
+You'll die many times, but as long as you still have an hei within your dynasty to succeed you, you'll continue to play. 
 
 The game ends when you receive your "final score",  which is some numerical evaluation of the legacy of your dynasty. **This number is inconsequential**. You receive this score on two occasions:
 
