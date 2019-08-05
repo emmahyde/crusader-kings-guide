@@ -1,11 +1,12 @@
 ## Game Overview
 
 *"yo did u beat ck2 yet?*
+
 *like the ending was good* 
+
 *but it was basically all qucik time events"* 
 
 [ Derek Murphy, 2019 ]
-
 
 
 The primary goal of  is to survive your dynasty. The game begins by selecting a character to play sometime between the start dates of 769-1337 AD.. The game always ends in 1453.
