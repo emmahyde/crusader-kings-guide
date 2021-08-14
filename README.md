@@ -162,5 +162,108 @@ When reaching adulthood every character receives an education trait. Which educa
 - Soldiers/Levy
 - Domain
 
-# Extra
+# Hot Tips
 
+### Converting Territories
+Converting populations of territories you own to your religion is a slow and arduous process. You can have one of your councillor's slowly chip away at it but their time is better spent elsewhere.
+
+#### Zealot's approach:
+
+Given that a particular region is giving you trouble, you may be able to work around it.
+1. Pick a problematic-religion-matching, potential vassal from the character search tools.
+1. Gain a hook on this character
+    - If you have the *Truth is Relative* perk, you can fabricate a hook.
+    - Otherwise, it is actually easier to imprison the vassal for a tyranny hit and then release on a favor.
+1. Grant the new vassal the territory. The population, the growth, and you will all get bonuses for this appointment. These commoners will believe anything.
+1. After he has taken power, demand conversion using the hook if you have to.
+
+*note: NPC vassals will, upon conversion, also convert their territories, because the populations see them as trustworthy.*
+
+
+### Winning Wars
+What makes it easy to seal the deal? Waiting for battle sucks. Why w
+
+#### Kidnapper's approach:
+1. Get Lifestyle `Intrigue > Schemer > 3rd Tier: Kidnapper` Perk, which enables the `Kidnap` scheme, to kidnap a target character.
+
+
+### Land that is Rightfully Yours
+If you have a claim on the land, you can revoke it from your vassal without the tyrant penalty. This is a good reason to fabricate a claim on a territory that is technically under your rule. This has to be done 1 county at a time and could definitely spawn rebellions.
+
+### Living as a Vassal
+1. Get Lifestyle `Stewardship > Administrator > 1st Tier: Meritocracy` Perk, which enables the `Claim Throne` scheme for the primary title of your liege.
+2. Now that you have the claim, go to the Factions tab and Create Claimant Faction instead of being pitted against possible allies.
+   - helps if the liege is disliked
+   - use his army against him
+   - establish relationships with the people who would potentially be your allies in this situation
+
+### Denethor your Faramirs
+1. Make disruptive courtiers or vassals be knights and send them out to be... killed unceremoniously.
+
+### Long Truce?
+Murder the person you created it with.
+
+### Great Spouse
+Use your spouse's council position in order to change the odds on event decisions – you can go switch their focus and see what bonuses it grants you.
+
+
+### Abduction
+the lifestyle `Intrigue > Schemer > 3rd Tier: Kidnapper` perk, which enables the `Kidnap` scheme to kidnap a target character, is highly useful.
+
+#### War
+1. Scheme the abduction of your target territory's lord.
+1. Send declaration of war immediately before attempting the kidnap.
+1. If the kidnapping is successful, you will immediately have a Warscore of 100.
+
+#### Claimants 
+1. If there is a claimant who:
+    - Is a claimant for a lower-tier title than you
+    - Does not already possess land
+2. Abduct claimant for a hook
+3. Negotiate their release with "Recruit" instead of a hook
+
+### Lots of Pretenders
+Utilize dread when new ruler with lots of pretenders.
+This occurs when you die and become your heir.
+
+Before dying:
+1. Amass prisoners (problematic or otherwise powerful people) so that the heir can milk them for hooks
+2. Execute imprisoned for dread
+
+### Succession
+Avoid parititon succession systems and "select" an heir.
+
+1. Be the dynasty or house head.
+    - make cadet branch if you are unable to become the dynasty head.
+2. Groom your heir.
+3. You can disinherit all of your heirs as dynasty head.
+    - this costs renown but can be useful
+    - in the waning days of a ruler, some sacrifices must be made
+
+### Marriage
+Matching faith is a good idea.
+
+Force a divorce in worst case, or use hook for intrafaith marriage.
+
+Hooks are MOST effective for getting an 'unwanted' marriage to occur.
+
+Marry courtiers off in order to get new people for your court – a woman will need a matrilineal marriage in order to stay at your court.
+
+It will benefit you to get great genetic traits through marriage in this way because if their offspring stays within your court it will make it much easier for you to marry, develop knights, establish council, etc.
+
+Bring claimants in but be careful: it's possible for someone to be a claimant but be restricted from acting on it in any meaningful way due to faith restrictions.
+
+### Infiltrating Enemy Courts
+1. Have good relations with your own courtiers and marry them into the target's court.
+2. Fabricate hooks on people in your own court and then send them into the target's court.
+3. Marry lesser family members who you have dynastic hooks on.
+4. Risk: Send family member with high intrigue in, in the hopes they will become the spymaster.
+
+### Dynasty
+1. Marry children to high-ranking individuals to generate more dynastic renown.
+2. Marry a claimant of a territory, of equal-rank to you, into your family. They will continue on being an independent ruler, but the children who are in your dynasty will have unpressed claims.
+3. Use hooks and kill the claimant when the children are born into your dynasty in order to elevate them and gain more renown.
+4. You will not directly rule this territory by claims alone (due to equal-rank title), but it will increase your renown to have multiple independent rulers. 
+5. You can do the same process with inheritors instead of claimants to skip the pressing their claim business, but it will be more difficult to convince inheritors to marry into your dynasty.
+    - you would then need to ensure that all inheritors ahead of that inheritor in line, as well as the current title holder, are "taken care of".
+6. The renown boost is only for 1 family member per realm – meaning, having brothers / cousins as dukes, etc. underneath you, or vassals in any way, will not boost this value.
